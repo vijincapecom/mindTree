@@ -1,0 +1,65 @@
+// .home2-choose-area {
+//     .single-choose {
+//         position: relative;
+//         transition: 0.3s;
+//         overflow: hidden;
+//         text-align: center;
+//         box-shadow: var(--boxShadow);
+//         margin-bottom: 30px;
+//         .icon {
+//             background: var(--whiteColor);
+//             border-radius: 4px;
+//             text-align: center;
+//             overflow: hidden;
+//             margin: auto;
+//             box-shadow: 2px 2px 20px 4px rgba(0, 0, 0, 0.07);
+//             padding: 10px 20px;
+//             i {
+//                 font-size: 80px;
+//                 color: var(--darkBlueColor);
+//                 transition: 0.3s;
+//             }
+//         }
+//         h3 {
+//             text-align: center;
+//             color: var(--headingColor);
+//             margin-bottom: 0;
+//             padding: 10px 5px;
+//             font-size: 17px;
+//             background-color: #f1f1f1;
+//         }
+//         &:hover {
+//             transform: translateY(-10px);
+//             .icon {
+//                 i {
+//                     color: var(--mainColor);
+//                 }
+//             }
+//         }
+//     }
+//     .choose-c {
+//         position: relative;
+//         margin-top: 75px;
+//         .content {
+//             max-width: 600px;
+//             margin-left: 30px;
+//             h3 {
+//                 font-size: 30px;
+//                 color: var(--headingColor);
+//                 margin-bottom: 15px;
+//                 font-weight: 600;
+//             }
+//             p {
+//                 color: var(--headingColor);
+//                 margin-bottom: 10px;
+//                 &:last-child {
+//                     margin-bottom: 0;
+//                 }
+//             }
+//             .box-btn {
+//                 border-radius: 50px;
+//                 margin-top: 15px;
+//             }
+//         }
+//     }
+// }
